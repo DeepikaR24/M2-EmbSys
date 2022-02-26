@@ -17,6 +17,18 @@
   * Supply Water to crop untill the moisture sensor reaches normal level of moisture.
   * Crop always gets water supply when moisture level decrease.
   * This process happen every 5 mintues to check the condition of moisture crop.
+## 4 W's & 1'H
+  ### Who
+     This handled by the User techically by using GSM module connected to arduino. 
+  ### What 
+     Every single condition of crop is virtually viewed by user by sending alert SMS to user.
+  ### When
+     The decision is to be taken by user when SMS alert arrives accrodingly to crop moisture content and water tank level.
+  ### Where 
+     Without any manual working this irrigation method is smartly handled every where.
+  ### How
+     Soil Moisture sensor sense the moisture content in the crop sent information to the arduino then forward SMS to user through the GSM.
+     If moisture level is low then turn pump on, supply water to crop. If water tank level is low or not in level to irrigate then information goes to user and set to fill the      tank first from reserviour to irrgate.
 
 
 
