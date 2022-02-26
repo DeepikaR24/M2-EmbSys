@@ -21,6 +21,21 @@ crops and plants have different requirements for water, fertilizers and sunlight
   * Supply Water to crop untill the moisture sensor reaches normal level of moisture.
   * Crop always gets water supply when moisture level decrease.
   * This process happen every 5 mintues to check the condition of moisture crop.
+
+## Defining the system in Algorithm : 
+The proposed system undergoes the following steps:
+  * Step 1: Start the process.
+  * Step 2: If ‘NO’ received from user, break the loop.
+  * Step 3: Initialize power to be supplied to GSM.
+  * Step 4: Check the moisture level (less than or more than).
+  * Step 5: If the level will be more than a fixed criteria, no need
+            to irrigation.
+  * Step 6: If Moisture level is less than a fixed criteria, start
+            irrigation.
+  * Step 7: Initialization of pump and run again.
+  * Step 8: After the process completed, it moves to original state.
+  * Step 9: The process will run again after 5 minutes.
+
 ## 4 W's & 1'H:
  #### Who
   This handled by the User techically by using GSM module connected to arduino. 
