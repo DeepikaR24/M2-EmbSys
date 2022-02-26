@@ -1,6 +1,6 @@
 # REQUIREMENT:
 ## Introduction:
-  Irrigation plays a vital role in growing healthy crop/plant. As technology advanced, irrigation system can also be automically done without the help of human by the smart irrigation method. Here I use Arduino and GSM (Global System for Mobile Communications) module the contol to irrigation method by the user. Arduino is pre-programmed for particular crop/plant mouister content with the help of that we could water the crop as per the water need.
+  Irrigation plays a vital role in growing healthy crop/plant. As technology advanced, irrigation system can also be automically done without the help of human by the smart irrigation method. Here I use Arduino and GSM (Global System for Mobile Communications) module the contol to irrigation method by the user. Arduino is pre-programmed for particular crop/plant mouister content with the help of that we could water the crop as per the water need. The entire irrigation happens in a smart way with the help of technologies by the control of User.
 ## Benefits:
   * Crop to grow healthy by smart irriagation system by getting water automaticaaly.
   * Reduce of water wastage.
