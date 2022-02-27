@@ -49,8 +49,8 @@ The proposed system undergoes the following steps:
   Soil Moisture sensor sense the moisture content in the crop sent information to the arduino then forward SMS to user through the GSM.
   If moisture level is low then turn pump on, supply water to crop. If water tank level is low or not in level to irrigate then information goes to user and set to fill the       tank first from reserviour to irrgate.
 
-# Detail Requirements:
- ## High Level Requirement
+## Detail Requirements:
+ ### High Level Requirement
  |  ID   |                Description
  |-------|------------------------------------------------------------------
  | HLR 1 | User should be able to get information about crop condition periodically.
@@ -60,8 +60,13 @@ The proposed system undergoes the following steps:
  | HLR 5 | Water should be supplied untill it reaches normal moisture level.
  | HLR 6 | Water tank should be refilled when it becomes low water level
  
- ## Low Level Requirement
+ ### Low Level Requirement
  | ID    |          Description
  |-------|--------------------------------------------------------------------------------
  | LLR 1 | We shall also use LCD display to output and Buzzer to alert the user insted of GSM.
  | LLR 2 | We shall use machine learning algorithm of crop moisture level dynamically and map it required data set.
+
+## Applications:
+  * This smart irrigation method is mainly useful in agriculture fields, greenhouse plants.
+  * Best pratices in crop which will be continuously cultivated years and years regularly.
+  * Not only in big fields but also this applicable in home gardens.
