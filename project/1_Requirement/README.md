@@ -35,7 +35,22 @@ The proposed system undergoes the following steps:
   * Step 7: Initialization of pump and run again.
   * Step 8: After the process completed, it moves to original state.
   * Step 9: The process will run again after 5 minutes.
-
+  
+ ## SWOT Anlaysis:
+  ### Strengths
+   * Realibity of crop increses.
+   * Crop grow in a healthy way and dehydration is cut downed.
+   * Yield the end product of the crop to the maximum.
+   * Expanding the growing season of the crop.
+  ### Weakness
+   * High maintainance and opeating expanses.
+   * Water logging and salizination 
+  ### Opportunities
+   * Improvement in Automation system.
+   * Advancement in Technologies.
+  ### Threats
+   * Leads to shut down the whole proceess if power supply cuts.
+  
 ## 4 W's & 1'H:
  #### Who
   This handled by the User techically by using GSM module connected to arduino. 
