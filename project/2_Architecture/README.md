@@ -5,4 +5,4 @@
 ## Flowchart:
   ![Flowchart Emb](https://user-images.githubusercontent.com/98866123/155833216-34c0a937-8c46-4772-8e77-a07610630430.png)
 
-
+## Structural Diagram:
