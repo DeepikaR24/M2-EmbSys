@@ -6,3 +6,4 @@
   ![Flowchart Emb](https://user-images.githubusercontent.com/98866123/155833216-34c0a937-8c46-4772-8e77-a07610630430.png)
 
 ## Structural Diagram:
+  ![str dia EmbSys](https://user-images.githubusercontent.com/98866123/155868973-e565b9a3-684b-49ff-8916-c5000f7e6379.png)
