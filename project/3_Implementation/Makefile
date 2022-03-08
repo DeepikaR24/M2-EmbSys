@@ -16,8 +16,7 @@ else
    endif
 endif
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).$(EXEC)
-INC	= -Iinc\
--Iunity
+INC	= -Iheader\
 
 all: $(SRC) $(BUILD)
 	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
