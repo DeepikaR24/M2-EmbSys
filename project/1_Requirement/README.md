@@ -25,6 +25,8 @@
    * When power goes off this system disables unless we have an inverter.
   
 ## 5 W's & 1'H:
+![5W   1H](https://user-images.githubusercontent.com/98866123/157143833-e8fe8c67-67f7-45a7-8da8-200e532b0c4d.PNG)
+
  ##### Who
    * The Automatic Door Opening is accessible by everyone from young to elder people.
    * Specially this system is neccesity for physically disable and wheelchaired people.
