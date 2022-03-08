@@ -18,6 +18,6 @@
    |                      | 3. .ino, .hex, simulide file
    | 4_TestplanAndOutput 	| High and Low Level Test Plans.
    | 5_Report             | Report created.
-   | 6_ImagesAndVideos    | All the images  of Circuit execution.
+   | 6_ImagesAndVideos    | All the Output Images and videos of Simulide file.
    | 7_ Applications      | System applications.
-   | 8_Output             | Output Images and videos of Simulide file.
+   
