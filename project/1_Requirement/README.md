@@ -1,13 +1,15 @@
 # REQUIREMENTS:
 ## Introduction:
-  
+  Our system puts forward an automatic and precise door opening system based on human movement sensing near the door. Well opening a door in places like hotels, Shopping complexes, and offices can be a tedious task and sometimes requires hiring a person just for the sake of opening door whenever a person arrives but now the techologies has been modernized by getting advantages from that implemented automatic Door Opener When a living being arrives within the sensor range, it detects its presence and sends out a command that opens the door.   
 ## Research:
- 
-## Explanation:
-
-
-## Defining the system: 
-
+ ### State of art
+  * The system can be later enhanced by integrating counter mechanism so as to keep track of the number of persons inside the facility.
+  * It may mainly intended to automated security access operations using a mobile phone.
+  * The availability of accessories has increased, including such features as wireless keypads, key chain remotes, and solenoid-operate deadbolts to lock the door itself.
+  * Door activation over the Internet to allow home owners to open their garage door from their office for deliveries.
+## Cost
+  * This system is implemented at an economical price and the cost is very less to install the project.
+  * Needs High maintainance.
  ## SWOT Anlaysis:
   ![SWOT](https://user-images.githubusercontent.com/98866123/157143115-a11939fd-6ba1-4b4c-ba1b-6cf11cc1f617.PNG)
   #### Strengths
