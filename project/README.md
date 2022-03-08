@@ -1,9 +1,9 @@
 # AUTOMATIC DOOR OPENING SYSTEM
 
  ### BADGES:
- |  Build Status |            Static Check
- |---------------|--------------------------------
- |[![CI](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/build.yml)
+ #### Build Status
+ 
+
  # Folder Structure
    | Folder               |            	Description                        |
    |----------------------|------------------------------------------------
