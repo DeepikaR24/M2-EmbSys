@@ -10,6 +10,11 @@
 ## Cost
   * This system is implemented at an economical price and the cost is very less to install the project.
   * Needs High maintainance.
+## Features
+* To sense and detect the motion of human coming closer to the door.
+* To Open the door when motion gets detected.
+* To Close the door until there is no motion detection.
+* To Close the door after the few seconds of door opening.
  ## SWOT Anlaysis:
   ![SWOT](https://user-images.githubusercontent.com/98866123/157143115-a11939fd-6ba1-4b4c-ba1b-6cf11cc1f617.PNG)
   #### Strengths
