@@ -14,7 +14,8 @@
    | 2_Architectures      | 1. Block Diagram and flowchart
    |                      | 2. Structural & Behavioural design details
    | 3_Implementation     |	All code and documentation
-   | 4_TestplanAndOutput	| Documents with test plans and procedures
-   | 5_Report             | Report created
+   | 4_TestplanAndOutput 	| High and Low Level Test Plans
+   | 5_Report             | Report created 
    | 6_ImagesAndVideos    | All the images & videos of Circuit execution
-   | 7_ Others            | Conclusion and Learning resources
+   | 7_ Applications      | System applications.
+   | 8_Output             | 
