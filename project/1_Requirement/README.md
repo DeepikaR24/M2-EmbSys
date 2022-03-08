@@ -1,4 +1,4 @@
-# REQUIREMENTS:
+# AUTOMATIC DOOR OPENING SYSTEM
 ## Introduction:
   Our system puts forward an automatic and precise door opening system based on human movement sensing near the door. Well opening a door in places like hotels, Shopping complexes, and offices can be a tedious task and sometimes requires hiring a person just for the sake of opening door whenever a person arrives but now the techologies has been modernized by getting advantages from that implemented automatic Door Opener When a living being arrives within the sensor range, it detects its presence and sends out a command that opens the door.   
 ## Research:
