@@ -2,7 +2,8 @@
 
  ### BADGES:
  #### Build Status
- 
+  [![CI](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/build.yml)
+ #### Static Check
 
  # Folder Structure
    | Folder               |            	Description                        |
