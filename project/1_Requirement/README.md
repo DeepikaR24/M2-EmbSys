@@ -43,21 +43,30 @@
  ##### How
    * These systems are used to open the door when a person comes near to the entrance of the door and closes it after he moves away from the door or after entering into the           door.
 ## Detail Requirements:
- ### High Level Requirement
+ ### High Level Requirements
  |  ID   |                Description
  |-------|------------------------------------------------------------------
  | HLR 1 | The Door should be Open automatically 
  | HLR 2 | It should sense the person when come closer the door
  | HLR 3 | It should be automatically closes after a specific time delay if there is no further motion near the door.
  
- ### Low Level Requirement
+ ### Low Level Requirements
  | ID    |          Description
  |-------|--------------------------------------------------------------------------------
  | LLR 1 | The system shall be able to open the door automatically, only for specific persons for security purpose
  | LLR 2 | The system shall be use customized auto door lock and unlock
  | LLR 3 | The system shall offers the additional advantage of tracking who enters the building and when they enter
  | LLR 4 | It shall be a simple wave of the hand near the sensor is all that is required to operate the switch to open the door.
+## Advantages:
+* There is lot of styling options in door openers.
+* Convenience.
+* For Safety and security purpose.
+* Barrier free for wheelchair using persons, hygiene control, energy saving, environmental protection and hands free.
 
+## Disadvantages:
+*  When power goes off this system disables unless we have an inverter.
+*  Installation and maintainance, needs to be clean regularly.
+*  Pricing- It is more price compared to manual doors.
 ## Applications:
 * The Automatic Door Opening system almost used everywhere airports, shopping malls, hospitals, work places, industries, construction and houses.
 * This system is necessity for people using wheelchairs, physical disabilities and aged people.
