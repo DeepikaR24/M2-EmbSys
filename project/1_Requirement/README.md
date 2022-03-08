@@ -6,17 +6,23 @@
 ## Explanation:
 
 
-## Defining the system in Algorithm : 
+## Defining the system: 
 
  ## SWOT Anlaysis:
-  ### Strengths
-   
-  ### Weakness
-   
-  ### Opportunities
-  
-  ### Threats
-  
+ 
+  #### Strengths
+   * Automatic Door Opener by human sensed is convenience for passage
+   * Barrier free for wheelchair using persons, hygiene control, energy saving, environmental protection and hands free.
+   * Safety and Security purpose.
+  #### Weakness
+   * They are also more complex to clean since you also need to polish internal parts like springs and bolts to avoid the accumulation of rust.
+   * The installation process requires the help of a professional door technician in order for it to be accurate and efficient.
+   * Thses are more expensive than standard doors, but the expense may be worth it when you consider all of the benefits. These doors also require more maintenance that              adds to the expense of these doors.
+ #### Opportunities
+   * The scope of this system is huge in enterance of many places.
+   * Can be used where we need simple automatic door opener by motion sensing.
+ #### Threats
+   * When power goes off this system disables unless we have an inverter.
   
 ## 5 W's & 1'H:
  ##### Who
@@ -50,7 +56,7 @@
  | LLR 2 | We shall 
 
 ## Applications:
-* The automatic door opening system almost used everywhere airports, shopping malls, hospitals, work places, industries, construction and houses.
+* The Automatic Door Opening system almost used everywhere airports, shopping malls, hospitals, work places, industries, construction and houses.
 * This system is necessity for people using wheelchairs, physical disabilities and aged people.
-* This automatic doors can be used where people frequently have their hands full were its diffcult to handle with conventional doors and its efficiency by making it easier for       people to get around example airport, hospitals.
+* This Automatic Doors Openers can be used where people frequently have their hands full were its diffcult to handle with conventional doors and its efficiency by making it       easier for people to get around example airport, hospitals.
 * This system is very helpful in this covid situation not to get infected by touching the doors.
