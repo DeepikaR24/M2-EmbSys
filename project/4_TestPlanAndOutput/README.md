@@ -7,23 +7,11 @@
 | HLT_03  | Circuit of the project should Implement in Simulide| Passed | Success | Done ✅
 | HLT_04  | Circuit of the project should simulate without errors| Passed | Success | Done ✅
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Low Level Test Plan
+| Test ID |            Test Cases Description       | Input        | Expected O/P | Actual O/P | Status |
+| --------|-----------------------------------------|--------------|------------|---------
+| LLT_01  | If Motion gets detected                  |
+| LLT_02  |
+| LLT_03  | 
+| LLT_04  | 
+
