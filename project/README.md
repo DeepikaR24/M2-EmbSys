@@ -7,10 +7,14 @@
  # Folder Structure
    | Folder               |            	Description                        |
    |----------------------|------------------------------------------------
-   | 1_Requirements	      | Documents detailing requirements and research
-   | 2_Design             | Structural & Behavioural design details
+   | 1_Requirements	      | 1. Project detailing requirements, research and cost & features
+   |                      | 2. SWOT Analysis, 5W'S & 1H
+   |                      | 3. High and Low Level Requirements
+   |                      | 4. Applications, advantages & disadvantages 
+   | 2_Architectures      | 1. Block Diagram and flowchart
+   |                      | 2. Structural & Behavioural design details
    | 3_Implementation     |	All code and documentation
    | 4_TestplanAndOutput	| Documents with test plans and procedures
    | 5_Report             | Report created
-   | 6_ImagesAndVideos    | All the images & videos of program execution
+   | 6_ImagesAndVideos    | All the images & videos of Circuit execution
    | 7_ Others            | Conclusion and Learning resources
