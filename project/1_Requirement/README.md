@@ -9,7 +9,7 @@
 ## Defining the system: 
 
  ## SWOT Anlaysis:
- 
+  ![SWOT](https://user-images.githubusercontent.com/98866123/157143115-a11939fd-6ba1-4b4c-ba1b-6cf11cc1f617.PNG)
   #### Strengths
    * Automatic Door Opener by human sensed is convenience for passage
    * Barrier free for wheelchair using persons, hygiene control, energy saving, environmental protection and hands free.
