@@ -13,7 +13,9 @@
    |                      | 4. Applications, advantages & disadvantages. 
    | 2_Architectures      | 1. Block Diagram and flowchart
    |                      | 2. Structural & Behavioural design details.
-   | 3_Implementation     |	All code and documentation
+   | 3_Implementation     |	1. Header file
+   |                      | 2. src file
+   |                      | 3. .ino, .hex, simulide file
    | 4_TestplanAndOutput 	| High and Low Level Test Plans.
    | 5_Report             | Report created.
    | 6_ImagesAndVideos    | All the images  of Circuit execution.
