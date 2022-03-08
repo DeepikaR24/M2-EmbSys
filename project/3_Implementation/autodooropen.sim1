@@ -1,0 +1,45 @@
+<circuit type="simulide_1.0" stepSize="1000000" stepsPS="1000000" NLsteps="100000" animate="0" >
+
+<item itemtype="Subcircuit" CircId="Uno-2" mainComp="false" Show_id="true" Show_Val="false" Pos="-468,-464" rotation="0" hflip="1" vflip="1" label="Uno-2" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="false">
+<mainCompProps Frequency="16 MHz" Program="autodooropen.ino.hex" Auto_Load="false" />
+</item>
+
+<item itemtype="Ground" CircId="Ground-103" mainComp="false" Show_id="false" Show_Val="false" Pos="-720,-304" rotation="0" hflip="1" vflip="1" label="Ground-103" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Ground" CircId="Ground-108" mainComp="false" Show_id="false" Show_Val="false" Pos="-488,-300" rotation="0" hflip="1" vflip="1" label="Ground-108" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="DcMotor" CircId="DcMotor-119" mainComp="false" Show_id="true" Show_Val="false" Pos="-596,-332" rotation="90" hflip="1" vflip="1" label="DcMotor-119" idLabPos="-22,-48" labelrot="0" valLabPos="-14,36" valLabRot="0" RPM_Nominal="30 RPM" Volt_Nominal="5 V" Resistance="100 Ω" />
+
+<item itemtype="TextComponent" CircId="TextComponent-159" mainComp="false" Show_id="false" Show_Val="false" Pos="-584,-404" rotation="0" hflip="1" vflip="1" label="TextComponent-159" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="MOTOR" />
+
+<item itemtype="Subcircuit" CircId="L298P-160" mainComp="false" Show_id="true" Show_Val="false" Pos="-796,-404" rotation="0" hflip="1" vflip="1" label="L298P-160" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Push" CircId="Push-230" mainComp="false" Show_id="false" Show_Val="false" Pos="-204,-264" rotation="0" hflip="1" vflip="1" label="Push-230" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 _Poles" />
+
+<item itemtype="TextComponent" CircId="TextComponent-246" mainComp="false" Show_id="false" Show_Val="false" Pos="-180,-348" rotation="0" hflip="1" vflip="1" label="TextComponent-145" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="false" Text="PIR SENSOR" />
+
+<item itemtype="Node" CircId="Node-256" mainComp="false" Pos="-700,-356" />
+
+<item itemtype="Connector" startpinid="L298P-160-OUT1" endpinid="DcMotor-119-lPin" enodeid="Circ_eNode-271" pointList="-756,-396,-596,-396,-596,-372" />
+
+<item itemtype="Connector" startpinid="DcMotor-119-rPin" endpinid="L298P-160-OUT2" enodeid="Circ_eNode-272" pointList="-596,-292,-672,-292,-672,-388,-756,-388" />
+
+<item itemtype="Connector" startpinid="Uno-2-GND2" endpinid="Ground-108-Gnd" enodeid="Circ_eNode-273" pointList="-460,-328,-488,-328,-488,-316" />
+
+<item itemtype="Connector" startpinid="Uno-2-5V0" endpinid="Push-230-switch0pinN" enodeid="Circ_eNode-273" pointList="-316,-368,-268,-368,-268,-304,-160,-304,-160,-264,-188,-264" />
+
+<item itemtype="Connector" startpinid="L298P-160-Vs" endpinid="Node-256-0" enodeid="Circ_eNode-274" pointList="-756,-356,-700,-356" />
+
+<item itemtype="Connector" startpinid="Uno-2-Vin" endpinid="Node-256-1" enodeid="Circ_eNode-274" pointList="-316,-392,-260,-392,-260,-468,-700,-468,-700,-356" />
+
+<item itemtype="Connector" startpinid="Node-256-2" endpinid="L298P-160-EnA" enodeid="Circ_eNode-274" pointList="-700,-356,-700,-296,-828,-296,-828,-356,-804,-356" />
+
+<item itemtype="Connector" startpinid="Uno-2-3" endpinid="Push-230-pinP0" enodeid="Circ_eNode-275" pointList="-460,-424,-512,-424,-512,-216,-272,-216,-272,-264,-220,-264" />
+
+<item itemtype="Connector" startpinid="L298P-160-SenA" endpinid="Ground-103-Gnd" enodeid="Circ_eNode-276" pointList="-756,-348,-720,-348,-720,-320" />
+
+<item itemtype="Connector" startpinid="L298P-160-IN1" endpinid="Uno-2-8" enodeid="Circ_eNode-278" pointList="-804,-396,-848,-396,-848,-256,-528,-256,-528,-376,-460,-376" />
+
+<item itemtype="Connector" startpinid="L298P-160-IN2" endpinid="Uno-2-9" enodeid="enode" pointList="-804,-388,-860,-388,-860,-172,-544,-172,-544,-368,-460,-368" />
+
+</circuit>
