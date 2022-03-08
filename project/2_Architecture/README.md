@@ -26,4 +26,8 @@
 
 ## Structural Diagram:
 ## Behavioral Diagram:
+ * Sequence Diagram
  
+ ![Behav Seq](https://user-images.githubusercontent.com/98866123/157214731-1a4d537c-4297-4fd6-82b4-daf54edc5b25.png)
+
+
