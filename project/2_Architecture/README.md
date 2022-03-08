@@ -25,6 +25,10 @@
 ![Flow door](https://user-images.githubusercontent.com/98866123/157177280-858aa452-06cb-4fbe-aa2a-7f59784308d4.png)
 
 ## Structural Diagram:
+ * Object Diagram
+  
+![Str Objct](https://user-images.githubusercontent.com/98866123/157230510-55dbdea9-df2d-4315-af8e-7296057e6225.png)
+
 ## Behavioral Diagram:
  * Sequence Diagram
  
