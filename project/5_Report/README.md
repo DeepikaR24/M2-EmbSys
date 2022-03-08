@@ -145,8 +145,8 @@
 ## Low Level Test Plan
 | Test ID |            Test Cases Description       | Input        | Expected O/P | Actual O/P | Status |
 | --------|-----------------------------------------|--------------|------------|---------------|--------
-| LLT_01  | If Motion gets detected                 | High 1       | Door Opens  | Door Opens    |  Done ✅
-| LLT_02  | If Motion not detected                  | Low  0       | Door Closes  | Door Closes   | Done ✅
+| LLT_01  | Door Motor                              | High 1       | Door Opens  | Door Opens    |  Done ✅
+| LLT_02  |  Door Motor                             | Low  0       | Door Closes  | Door Closes   | Done ✅
 
 
 
