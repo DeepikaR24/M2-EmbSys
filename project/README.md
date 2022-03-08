@@ -10,12 +10,12 @@
    | 1_Requirements	      | 1. Project detailing requirements, research and cost & features
    |                      | 2. SWOT Analysis, 5W'S & 1H
    |                      | 3. High and Low Level Requirements
-   |                      | 4. Applications, advantages & disadvantages 
+   |                      | 4. Applications, advantages & disadvantages. 
    | 2_Architectures      | 1. Block Diagram and flowchart
-   |                      | 2. Structural & Behavioural design details
+   |                      | 2. Structural & Behavioural design details.
    | 3_Implementation     |	All code and documentation
-   | 4_TestplanAndOutput 	| High and Low Level Test Plans
-   | 5_Report             | Report created 
-   | 6_ImagesAndVideos    | All the images & videos of Circuit execution
+   | 4_TestplanAndOutput 	| High and Low Level Test Plans.
+   | 5_Report             | Report created.
+   | 6_ImagesAndVideos    | All the images  of Circuit execution.
    | 7_ Applications      | System applications.
-   | 8_Output             | 
+   | 8_Output             | Output Images and videos of Simulide file.
