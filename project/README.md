@@ -4,7 +4,7 @@
  #### Build Status
   [![CI](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/build.yml)
  #### Static Check
-
+  [![cppcheck-action](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/cpp.yml/badge.svg)](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/cpp.yml)
  # Folder Structure
    | Folder               |            	Description                        |
    |----------------------|------------------------------------------------
