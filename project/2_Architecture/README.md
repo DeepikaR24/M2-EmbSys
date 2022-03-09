@@ -35,7 +35,7 @@
  ![Behav Seq](https://user-images.githubusercontent.com/98866123/157214731-1a4d537c-4297-4fd6-82b4-daf54edc5b25.png)
 
 ## Best Method Followed
-* The Block Diagram and it Components Description clearyly specified.
+* The Block Diagram and it Components Description clearly specified.
 * The syastem function is explained in the Flowchart.
 * Detailed working flow explained in structural and behavioral diagram.
 
