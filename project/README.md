@@ -23,6 +23,11 @@
    |                      | 3. .ino, .hex, simulide file
    | 4_TestplanAndOutput 	| High and Low Level Test Plans.
    | 5_Report             | Report created.
-   | 6_ImagesAndVideos    | All the Output Images and videos of Simulide file.
-   | 7_ Applications      | System applications.
+   | 6_ImagesAndVideos    | All the Images used in the projects.
+   | 7_Output             | Output Images and Videos of simulide.
+   | 8_ ApplicationsAndOthers     | 1. System applications 
+   |                       | 2. Conclusion
+   |                       | 3. Future Scope
+   |                       | 4. Learning Resources
+   
    
