@@ -7,6 +7,9 @@
   [![cppcheck-action](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/cpp.yml/badge.svg)](https://github.com/DeepikaR24/M2-EmbSys/actions/workflows/cpp.yml)
  #### Codiga
   ![image](https://user-images.githubusercontent.com/98866123/157307324-38491802-5a26-4e22-9711-298b7563116e.png)          ![image](https://user-images.githubusercontent.com/98866123/157307438-b703c702-3212-4945-a2f0-ca4d4d3f3aad.png)
+ #### Codacy
+ ![image](https://user-images.githubusercontent.com/98866123/157360096-9a68d49a-d40a-4c80-bc75-71dea8978b47.png)
+
 
 
  # Folder Structure
