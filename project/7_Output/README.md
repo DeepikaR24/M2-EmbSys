@@ -1,4 +1,5 @@
 # Output Images Added
 * Hex FIle
 * Program Output
-* Simulation
+* Simulation Running Status
+* Simulation Output Image
